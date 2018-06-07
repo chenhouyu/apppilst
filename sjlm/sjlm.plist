@@ -17,13 +17,13 @@
             <key>metadata</key>  
             <dict>  
                 <key>bundle-identifier</key>  
-                <string>com.yjsj.sjlm</string>  
+                <string>com.xnqb.yzmg</string>  
                 <key>bundle-version</key>  
                 <string>1.6</string>  
                 <key>kind</key>  
                 <string>software</string>  
                 <key>title</key>  
-                <string>赏金联盟</string>  
+                <string>小牛情报</string>  
             </dict>  
         </dict>  
     </array>  
